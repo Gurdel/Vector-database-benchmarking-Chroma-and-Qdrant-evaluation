@@ -1,4 +1,4 @@
-# Vector DB query latency research data
+# Vector database benchmarking: Chroma and Qdrant evaluation
 
 This repository contains public research artifacts for studying vector database query latency on recommender-system-style datasets. The notebooks generate or prepare vector datasets, populate vector databases, and record nearest-neighbor query latency measurements for Chroma and Qdrant.
 
