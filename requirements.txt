@@ -1,0 +1,5 @@
+# Python 3.13.11
+chromadb==1.4.0
+numpy==2.4.0
+pandas==2.3.3
+qdrant-client==1.16.2
