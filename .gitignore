@@ -2,3 +2,4 @@ test data/testing_100nn/test_news_s600_d10677_sp0.csv
 test data/testing_100nn/test_news_s600_d9000_sp0.csv
 test data/testing_2500nn/test_news_s600_d10677_sp0.csv
 test data/testing_2500nn/test_news_s600_d9000_sp0.csv
+.DS_Store
